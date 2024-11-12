@@ -1,0 +1,5 @@
+env/
+Assignment/__py*
+invoice_assignment/__pycache__/*
+invoice_assignment/migrations/__pycache__/*
+db.sqlite3
